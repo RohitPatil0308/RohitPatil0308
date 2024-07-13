@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/RohitPatil0308/RohitPatil0308/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
