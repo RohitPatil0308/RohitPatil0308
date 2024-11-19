@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpatil0308&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpatil0308" /> </p>
 
-- 🌱 I’m currently learning **MSc in Data Analytics**
+- 🌱 I’m currently learning **MSc in Business Analytics**
 
 - 📫 How to reach me **rohitspatil0308@gmail.com**
 
